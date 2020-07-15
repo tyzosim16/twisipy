@@ -1,0 +1,2 @@
+tenant_id;vlan_no;vlan_type;prefix_id;vrf_no;vmm_doms
+NISTV-ansible_test;8888;vmLAN;1.1.1.0/24;0;TEST01
